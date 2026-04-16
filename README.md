@@ -12,6 +12,7 @@ Implement and compare classical and modern algorithms
 Explore deep learning architectures for visual tasks
 Analyze performance metrics and optimization strategies
 Bridge research with real-world applications
+
 🧩 Repository Structure
 🔹 1. Fundamentals of Image Processing
 Image representation (grayscale, RGB, channels)
@@ -19,18 +20,21 @@ Filtering (Gaussian, Median, Bilateral)
 Edge detection (Sobel, Canny)
 Histogram equalization & normalization
 Noise reduction techniques
+
 🔹 2. Classical Computer Vision Techniques
 Feature detection (SIFT, SURF, ORB)
 Image transformations & geometric operations
 Object tracking basics
 Template matching
 Contour detection & shape analysis
+
 🔹 3. Intermediate Concepts
 Image segmentation (thresholding, watershed)
 Morphological operations
 Optical flow estimation
 Background subtraction
 Feature matching & homography
+
 🔹 4. Deep Learning for Computer Vision
 Introduction to CNNs
 Image classification models
@@ -38,6 +42,7 @@ LeNet, AlexNet, VGG
 Transfer learning techniques
 Data augmentation strategies
 Model evaluation (accuracy, precision, recall, F1-score)
+
 🔹 5. Advanced Architectures & Algorithms
 Object Detection
 YOLO (You Only Look Once)
@@ -49,6 +54,7 @@ Image Super-Resolution
 SRCNN, ESRGAN
 Generative Models
 GANs (DCGAN, CycleGAN)
+
 🔹 6. Research & Experimental Section
 Comparative analysis of models
 Hyperparameter tuning
@@ -81,9 +87,8 @@ Multimodal AI (Vision + Language models)
 
 Contributions, ideas, and research discussions are welcome. Feel free to fork the repo, open issues, or submit pull requests.
 
-📄 License
 
-This project is intended for research and educational purposes.
+This project is intended for research and educational purposes only 
 
 ✍️ Author
 
