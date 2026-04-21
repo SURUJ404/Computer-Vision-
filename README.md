@@ -7,7 +7,7 @@ This repository presents a comprehensive, research-driven exploration of Compute
 The objective is to build a strong pipeline of visual intelligence systems capable of solving real-world problems such as image enhancement, segmentation, detection, and classification.
 
 1. Experimenting with images
-2. 2. Background removal Algorithm
+2. Background removal Algorithm
 3. c-2 Annotation , Filtering , cropping
    
 🎯 Objectives
