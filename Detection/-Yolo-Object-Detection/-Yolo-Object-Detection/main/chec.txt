@@ -1,0 +1,25 @@
+Activating Virtual Environment : 
+PS C:\Users\SURUJ_KALITA\lr-in\-Yolo-Object-Detection> python -m venv yolo_v
+PS C:\Users\SURUJ_KALITA\lr-in\-Yolo-Object-Detection> pip install req.txt
+PS C:\Users\SURUJ_KALITA\lr-in\-Yolo-Object-Detection\yolo_v> labelImg
+
+Avoid Background-Clutter
+Good-Image-No-Blurry
+
+flickr
+unsplash
+pexels
+google
+
+Labelling -- Imp
+
+
+https://app.cvat.ai/models?page=1
+
+https://app.labelbox.com/catalog
+
+
+for labelling 
+
+ pip install label-studio
+ label-studio start
